@@ -1,13 +1,3 @@
-### Hi there 👋
-
-<!--
-**DiazIgnacio/DiazIgnacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
--->
-
 <h1>Welcome!</h1>
 
 <h3><b>About me</b></h3>
