@@ -2,7 +2,7 @@
 
 <h3><b>About me</b></h3>
 
-<p>I'm Ignacio, a Front End Developer currently living in <b>Rosario, Argentina</b>. I enjoy developing Web Pages with HTML / CSS / JS. I'm currently learning React JS.
+<p>I'm Ignacio, a Front End Developer currently living in <b>Rosario, Argentina</b>. I enjoy developing Web Pages with <b>HTML / CSS / JS</b>. I'm currently learning <b>React JS</b>.
 </p>
 
 <h3><b>Toolkit</b></h3>
