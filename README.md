@@ -2,7 +2,17 @@
 
 <h3><b>About me</b></h3>
 
-<p>I'm Ignacio, a Front End Developer currently living in <b>Rosario, Argentina</b>. I enjoy developing Web Pages with <b>HTML / CSS / JS</b>. I'm currently learning <b>React JS</b>.
+<p>Hi! I'm Ignacio Diaz, a Frontend Web Developer based in Argentina. I have a passion for all things web, and love working on interactive and responsive websites. I have a degree in Electronics from the University of Rosario, and have been working as a web developer for over 2 years. I have experience with a variety of programming languages and frameworks, including:
+
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>React JS</li>
+    <li>Node JS</li>
+  </ul>
+
+My goal is to create beautiful, functional, and user-friendly websites that are both visually appealing and easy to use. I am a hard worker and take pride in my work, and I am always looking for new and innovative ways to improve my skills. I am excited to start working with you and see what we can create together! 
 </p>
 
 <h3><b>Toolkit</b></h3>
