@@ -7,7 +7,6 @@
   <ul>
     <li>HTML / CSS / JavaScript</li>
     <li>React js / React Native / Next.js</li>
-    <li>JavaScript</li>
     <li>Node js / Express</li>
     <li>Bootstrap / Tailwind / MUI</li>
   </ul>
