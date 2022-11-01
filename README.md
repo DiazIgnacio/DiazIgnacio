@@ -34,6 +34,6 @@ The core components of my daily Front End toolkit are:
 
 <h3><b>Contact Me!</b></h3>
 <p>
-  <a href="https://www.linkedin.com/in/ignacio-d%C3%ADaz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/diaz-ignacio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
