@@ -9,6 +9,7 @@ I hold a degree in Electronics from the University of Rosario, and I have over <
 | HTML | Next.js |
 | --- | --- |
 | CSS | Node.js |
+| --- | --- |
 | TypeScript | Express |
 | React JS | Bootstrap |
 | React Native | Tailwind |
