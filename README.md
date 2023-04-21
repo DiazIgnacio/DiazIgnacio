@@ -1,8 +1,8 @@
-#Ignacio Diaz - Frontend Web Developer
+<h1>Ignacio Diaz - Frontend Web Developer</h1>
 
 Hello! I'm Ignacio Diaz, a passionate <b>Frontend Web Developer</b> based in Argentina. My love for all things web has led me to specialize in creating interactive and responsive websites. In my free time, I enjoy reading and spending quality time with my family and friends.
 
-##Education and Experience
+<h3>Education and Experience</h3>
 
 I hold a degree in Electronics from the University of Rosario, and I have over <b>5 years of experience</b> as a software developer. Throughout my career, I have worked with a diverse range of programming languages and frameworks, including:
 
@@ -18,11 +18,11 @@ I hold a degree in Electronics from the University of Rosario, and I have over <
     Tailwind
     MUI
 
-##My Goal
+<h3>My Goal</h3>
 
 My main goal is to create visually appealing, functional, and user-friendly websites that leave a lasting impression on users. I take pride in my work, and I am constantly looking for innovative ways to improve my skills and stay ahead of industry trends.
 
-##Work Ethic
+<h3>Work Ethic</h3>
 
 As a hard worker, I am committed to meeting deadlines and delivering high-quality work. I am eager to collaborate with you and explore what we can achieve together. So, let's get started and create something amazing!
 
