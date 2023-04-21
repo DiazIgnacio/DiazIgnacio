@@ -1,23 +1,3 @@
-<style>
-    .technologies-container {
-        display: flex;
-    }
-
-    .technologies-column {
-        flex: 1;
-    }
-
-    ul {
-        list-style: none;
-        margin: 0;
-        padding: 0;
-    }
-
-    li {
-        margin-bottom: 0.5rem;
-    }
-</style>
-
 <h1>Ignacio Diaz - Frontend Web Developer</h1>
 
 Hello! I'm Ignacio Diaz, a passionate <b>Frontend Web Developer</b> based in Argentina. My love for all things web has led me to specialize in creating interactive and responsive websites. In my free time, I enjoy reading and spending quality time with my family and friends.
@@ -26,27 +6,14 @@ Hello! I'm Ignacio Diaz, a passionate <b>Frontend Web Developer</b> based in Arg
 
 I hold a degree in Electronics from the University of Rosario, and I have over <b>5 years of experience</b> as a software developer. Throughout my career, I have worked with a diverse range of programming languages and frameworks, including:
 
-<div class="technologies-container">
-  <div class="technologies-column">
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>Typescript</li>
-      <li>React JS</li>
-      <li>React Native</li>
-    </ul>
-  </div>
-  <div class="technologies-column">
-    <ul>
-      <li>Next.js</li>
-      <li>Node JS</li>
-      <li>Express</li>
-      <li>Bootstrap</li>
-      <li>Tailwind</li>
-      <li>MUI</li>
-    </ul>
-  </div>
-</div>
+Technologies
+Column 1	Column 2
+HTML	Next.js
+CSS	Node.js
+TypeScript	Express
+React JS	Bootstrap
+React Native	Tailwind
+	MUI
 
 
 <h3>My Goal</h3>
