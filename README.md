@@ -6,7 +6,6 @@ Hello! I'm Ignacio Diaz, a passionate <b>Frontend Web Developer</b> based in Arg
 
 I hold a degree in Electronics from the University of Rosario, and I have over <b>5 years of experience</b> as a software developer. Throughout my career, I have worked with a diverse range of programming languages and frameworks, including:
 
-| Column 1 | Column 2 |
 | --- | --- |
 | HTML | Next.js |
 | CSS | Node.js |
