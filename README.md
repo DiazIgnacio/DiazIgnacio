@@ -1,18 +1,30 @@
-<h1>Welcome!</h1>
+#Ignacio Diaz - Frontend Web Developer
 
-<h3><b>About me</b></h3>
+Hello! I'm Ignacio Diaz, a passionate <b>Frontend Web Developer</b> based in Argentina. My love for all things web has led me to specialize in creating interactive and responsive websites. In my free time, I enjoy reading and spending quality time with my family and friends.
 
-<p>Hi! I'm Ignacio Diaz, a Frontend Web Developer based in Argentina. I have a passion for all things web, and love working on interactive and responsive websites. I have a degree in Electronics from the University of Rosario, and have been working as a web developer for over 2 years. I have experience with a variety of programming languages and frameworks, including:
+##Education and Experience
 
-  <ul>
-    <li>HTML / CSS / JavaScript</li>
-    <li>React js / React Native / Next.js</li>
-    <li>Node js / Express</li>
-    <li>Bootstrap / Tailwind / MUI</li>
-  </ul>
+I hold a degree in Electronics from the University of Rosario, and I have over <b>5 years of experience</b> as a software developer. Throughout my career, I have worked with a diverse range of programming languages and frameworks, including:
 
-My goal is to create beautiful, functional, and user-friendly websites that are both visually appealing and easy to use. I am a hard worker and take pride in my work, and I am always looking for new and innovative ways to improve my skills. I am excited to start working with you and see what we can create together! 
-</p>
+    HTML
+    CSS
+    Typescript
+    React JS
+    React Native
+    Next.js
+    Node JS
+    Express
+    Bootstrap
+    Tailwind
+    MUI
+
+##My Goal
+
+My main goal is to create visually appealing, functional, and user-friendly websites that leave a lasting impression on users. I take pride in my work, and I am constantly looking for innovative ways to improve my skills and stay ahead of industry trends.
+
+##Work Ethic
+
+As a hard worker, I am committed to meeting deadlines and delivering high-quality work. I am eager to collaborate with you and explore what we can achieve together. So, let's get started and create something amazing!
 
 <h3><b>Toolkit</b></h3>
 
