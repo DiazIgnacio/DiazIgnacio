@@ -1,30 +1,18 @@
 ## Ignacio Diaz - Frontend Web Developer  
-  
-
-<div align="center">
-<a href="https://linkedin.com/in/diaz-ignacio" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
 
 
 ###    
-Hello! I'm Ignacio Diaz, a passionate Frontend Web Developer based in Argentina. My love for all things web has led me to specialize in creating interactive and responsive websites. In my free time, I enjoy reading and spending quality time with my family and friends.  
-  
+Hello! I'm Ignacio Diaz, a passionate Frontend Web Developer based in Argentina. My love for all things web has led me to specialize in creating interactive and responsive websites. In my free time, I enjoy reading and spending quality time with my family and friends.    
 
 
 
 ### Education and Experience  
 I hold a degree in Electronics from the University of Rosario, and I have over 5 years of experience as a software developer. Throughout my career, I have worked with a diverse range of programming languages and frameworks.  
-  
 
 
 
 ### My Goal  
 My main goal is to create visually appealing, functional, and user-friendly websites that leave a lasting impression on users. I take pride in my work, and I am constantly looking for innovative ways to improve my skills and stay ahead of industry trends.
-  
   
 
 
@@ -32,6 +20,11 @@ My main goal is to create visually appealing, functional, and user-friendly webs
 ### Work Ethic  
 As a hard worker, I am committed to meeting deadlines and delivering high-quality work. I am eager to collaborate with you and explore what we can achieve together. So, let's get started and create something amazing!  
   
+  
+<a href="https://linkedin.com/in/diaz-ignacio" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+
 
 <br/>  
 
